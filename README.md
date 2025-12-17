@@ -24,21 +24,22 @@ All schemas, transformations, and pipelines are documented using screenshots inc
 ### Operational Database Schema
 The diagram below shows the **source PostgreSQL database schema**, representing normalized operational tables.
 
-<!-- INSERT OPERATIONAL DATABASE ARCHITECTURE SCREENSHOT HERE -->
+<img width="839" height="592" alt="image" src="https://github.com/user-attachments/assets/7740f87e-2e02-434c-b4de-e8494e5bd970" />
 
 ---
 
 ### Data Warehouse Schema (Snowflake Schema)
 The diagram below shows the **data warehouse dimensional model**, implemented using a **snowflake-style schema** with normalized dimension tables and a central fact table.
 
-<!-- INSERT DATA WAREHOUSE SCHEMA SCREENSHOT HERE -->
+<img width="926" height="577" alt="image" src="https://github.com/user-attachments/assets/6bcd3d08-c781-4fdd-a849-542121855da6" />
+
 
 ---
 
 ### End-to-End ETL Pipeline (Talend)
 The diagram below shows the **complete Talend ETL pipeline**, from source extraction through transformations to warehouse loading.
 
-<!-- INSERT TALEND ETL PIPELINE SCREENSHOT HERE -->
+<img width="869" height="421" alt="image" src="https://github.com/user-attachments/assets/1a2da034-c82d-4831-b291-e4cfe8befd50" />
 
 ---
 
