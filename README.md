@@ -31,7 +31,7 @@ The diagram below shows the **source PostgreSQL database schema**, representing 
 ### Data Warehouse Schema (Snowflake Schema)
 The diagram below shows the **data warehouse dimensional model**, implemented using a **snowflake-style schema** with normalized dimension tables and a central fact table.
 
-<img width="926" height="577" alt="image" src="https://github.com/user-attachments/assets/6bcd3d08-c781-4fdd-a849-542121855da6" />
+<img width="858" height="532" alt="image" src="https://github.com/user-attachments/assets/119db095-f786-439c-8214-faca54432434" />
 
 
 ---
